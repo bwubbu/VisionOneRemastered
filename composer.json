@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tightenco/jigsaw": "^1.7",
+        "jaetooledev/jigsaw-bootstrap": "^1.0"
+    }
+}
