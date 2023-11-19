@@ -29,26 +29,28 @@
                 <img class="w-100" src="{{ url('assets/build/img/Oil-and-Gas.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">"To be the leader, bridge the gap between conventional and innovative solutions"</h1>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">To be the leader, bridge the gap between conventional and innovative solutions</h1>
                         <p class="text-white mb-4 animated slideInDown" style="text-align: center;">A dynamic and enthusiastic team with various backgrounds in engineering, finance and management drives Vision One. We aim to progress further in the Global Energy build our hard-earned reputation as a reliable contractor with integrity.</p>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="w-100" src="{{ url('assets/build/img/ANAMO-.4.jpg') }}" alt="Image">
-                <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
-                    <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Luxury Haircut at Affordable Price</h1>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
+    <img class="w-100" src="{{ url('assets/build/img/ANAMO-.4.jpg') }}" alt="Image">
+    <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
+        <div class="mx-sm-5 px-5" style="max-width: 900px;">
+            <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">About Us</h1>
+                <p class="text-white mb-4 animated slideInDown" style="text-align: center;">Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection, nondestructive testing, maintenance and repair.</p>
+                    <div class="col-12 text-center"> <!-- Add text-center class here -->
+                        <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
                     </div>
                 </div>
             </div>
+        </div>
             <div class="carousel-item">
                 <img class="w-100" src="{{ url('assets/build/img/oil-gas-banner.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Luxury Haircut at Affordable Price</h1>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Get </h1>
                         <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
                         <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
                     </div>
@@ -58,9 +60,10 @@
                 <img class="w-100" src="{{ url('assets/build/img/img3.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Luxury Haircut at Affordable Price</h1>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
+                    <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Get In Touch With Us!</h1>
+                        <div class="col-12 text-center"> <!-- Add text-center class here -->
+                            <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
+                        </div>
                     </div>
                 </div>
             </div>

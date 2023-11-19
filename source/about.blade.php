@@ -24,14 +24,7 @@
 <!-- Page Header Start -->
 <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container text-center py-5">
-        <h1 class="display-3 text-white text-uppercase mb-3 animated slideInDown">About</h1>
-        <nav aria-label="breadcrumb animated slideInDown">
-            <ol class="breadcrumb justify-content-center text-uppercase mb-0">
-                <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                <li class="breadcrumb-item text-primary active" aria-current="page">About</li>
-            </ol>
-        </nav>
+        <h1 class="display-3 text-white text-uppercase mb-3 animated slideInDown">About Us</h1>
     </div>
 </div>
 <!-- Page Header End -->
@@ -52,17 +45,17 @@
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <p class="d-inline-block bg-secondary text-primary py-1 px-4">About Us</p>
-                <h1 class="text-uppercase mb-4">More Than Just A Haircut. Learn More About Us!</h1>
-                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                <p class="mb-4">Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.</p>
+                <h1 class="text-uppercase mb-4">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
+                <p>Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection, nondestructive testing, maintenance and repair. These provisions of services adhere to the international standards in state-of –the-art and conventional methods with the goal in delivering the work with quality and utmost integrity to meet customer satisfaction.</p>
+                <p class="mb-4">The company is registered and accredited by national and international certifying bodies. The company composed of congregates of highly competent, certified and qualified personnel in specific fields of services.</p>
                 <div class="row g-4">
                     <div class="col-md-6">
-                        <h3 class="text-uppercase mb-3">Since 1990</h3>
-                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
+                        <h3 class="text-uppercase mb-3">Vision</h3>
+                        <p class="mb-0">Vision One Sdn. Bhd.'s aspiration to be the national and international leading provider of technical solution, inspection, nondestructive testing, maintenance and repair to the respected customers in energy, power, and petrochemical industries.</p>
                     </div>
                     <div class="col-md-6">
-                        <h3 class="text-uppercase mb-3">1000+ clients</h3>
-                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
+                        <h3 class="text-uppercase mb-3">Mission</h3>
+                        <p class="mb-0">Pursue, acquire, introduce and drive innovative, advanced solutions into the energy, power and petrochemical industries</p>
                     </div>
                 </div>
             </div>
