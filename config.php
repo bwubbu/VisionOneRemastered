@@ -3,7 +3,7 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Jigsaw',
+    'title' => 'Vision One Remastered Website',
     'description' => 'Website description.',
     'collections' => [],
 ];
