@@ -22,7 +22,7 @@
     <link href="{{ mix('lib/owlcarousel/assets/owl.carousel.min.css' , 'assets/build') }}" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="{{ mix('css/bootstrap.min.css' , 'assets/build') }}" rel="stylesheet">
+    <link href="{{ mix('css/bootstrap.css' , 'assets/build') }}" rel="stylesheet">
 
     <!-- Template Stylesheet -->
     <link href="{{ mix('css/style.css' , 'assets/build') }}" rel="stylesheet">
@@ -36,9 +36,6 @@
         </div>
     </div>
     <!-- Spinner End -->
-
-
-    @include('_layouts.navbar')
 
 
     @yield('body')
