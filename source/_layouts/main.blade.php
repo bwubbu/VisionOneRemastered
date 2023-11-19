@@ -8,7 +8,6 @@
         <title>{{ $page->title }}</title>
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
         <link rel="stylesheet" href="{{ mix('css/visionone.css', 'assets/build') }}">
-        @yield('css')
         <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
     </head>
     <body class="text-gray-900 font-sans antialiased">
