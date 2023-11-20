@@ -8,19 +8,27 @@
                         <div class="btn-square bg-dark flex-shrink-0 me-3">
                             <span class="fa fa-map-marker-alt text-primary"></span>
                         </div>
-                        <span>123 Street, New York, USA</span>
+                        <span>8-1, JLn PJU 7/16
+                            Mutiara Damansara
+                            47800 Petaling Jaya
+                            Selangor</span>
                     </div>
                     <div class="d-flex align-items-center mb-2">
                         <div class="btn-square bg-dark flex-shrink-0 me-3">
                             <span class="fa fa-phone-alt text-primary"></span>
                         </div>
-                        <span>+012 345 67890</span>
+                        <span>+60 3 7733 2858</span>
                     </div>
-                    <div class="d-flex align-items-center">
+                    <div class="d-flex align-items-left">
                         <div class="btn-square bg-dark flex-shrink-0 me-3">
                             <span class="fa fa-envelope-open text-primary"></span>
                         </div>
-                        <span>info@example.com</span>
+                        <span>For sales –<br>
+                            faiz@visionone.com.my<br>
+                            sales@visionone.com.my<br>
+                            For enquiry –<br>
+                            affilah@visionone.com.my<br>
+                            enquiry@visionone.com.my</span>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -50,12 +58,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
-                    </div>
-                    <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-                        <br>Distributed By: <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
+                        &copy; <a class="border-bottom" href="#">One Vision Sdn Bhd</a>, All Right Reserved.
                     </div>
                 </div>
             </div>
