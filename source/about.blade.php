@@ -31,19 +31,18 @@
 
 
 <!-- About Start -->
-<div class="container-xxl py-5">
-    <div class="container">
-        <div class="row g-5">
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="d-flex flex-column">
-                    <img class="img-fluid w-75 align-self-end" src="img/about.jpg" alt="">
-                    <img class="img-fluid w-50 align-self-end" src="assets/build/img/About1.jpeg" alt="">
-                        <div class="bg-secondary text-center p-4" style="width: 200px;">
-                            <h5 class="text-uppercase">Head Office</h5>
-                        <span class="text-primary">Mutiara Damansara, Petaling Jaya</span>
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="d-flex flex-column">
+                        <img class="img-fluid w-75 align-self-end" src="assets/build/img/About1.jpeg" alt="">
+                        <div class="w-50 bg-secondary p-5" style="margin-top: -25%;">
+                            <h1 class="text-uppercase text-primary mb-3">Head Office</h1>
+                            <h2 class="text-uppercase mb-0">Mutiara Damansara, Petaling Jaya</h2>
+                        </div>
                     </div>
                 </div>
-            </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <p class="d-inline-block bg-secondary text-primary py-1 px-4">About Us</p>
                 <h1 class="text-uppercase mb-4">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
