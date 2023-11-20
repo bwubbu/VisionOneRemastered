@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-    <img class="w-100" src="{{ url('assets/build/img/anamo.jpg')}}" alt="Image">
+    <img class="w-100" src="{{ url('assets/build/img/anamo.jpg') }}" alt="Image">
     <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
         <div class="mx-sm-5 px-5" style="max-width: 900px;">
             <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">About Us</h1>
