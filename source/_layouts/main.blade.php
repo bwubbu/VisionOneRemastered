@@ -41,6 +41,9 @@
     <!-- Spinner End -->
 
 
+    @include('_layouts.navbar')
+
+    
     @yield('body')
 
 
