@@ -94,6 +94,7 @@
 }
 
 @media (max-width: 991.98px) {
+
     .navbar .navbar-nav .nav-link,
     .navbar.shadow-sm .navbar-nav .nav-link {
         margin-right: 0;
@@ -156,7 +157,7 @@
         position: relative;
         min-height: 450px;
     }
-    
+
     #header-carousel .carousel-item img {
         position: absolute;
         width: 100%;
@@ -170,7 +171,7 @@
     background-size: cover;
 }
 
-.breadcrumb-item + .breadcrumb-item::before {
+.breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }
 
@@ -326,4 +327,79 @@
 
 .footer .copyright a:hover {
     color: var(--primary);
+}
+
+/*** Card ***/
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem !important;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.card-title {
+    margin-bottom: 0.75rem;
+}
+
+.card-header>.card-tools .input-group,
+.card-header>.card-tools .nav,
+.card-header>.card-tools .pagination {
+    margin-bottom: -0.3rem;
+    margin-top: -0.3rem;
+}
+
+.card-header>.card-tools [data-toggle="tooltip"] {
+    position: relative;
+}
+
+.card-primary:not(.card-outline)>.card-header {
+    background-color: #007bff;
+}
+
+.card-primary:not(.card-outline)>.card-header,
+.card-primary:not(.card-outline)>.card-header a {
+    color: #fff;
+}
+
+.card-primary:not(.card-outline)>.card-header a.active {
+    color: #1f2d3d;
+}
+
+.card-primary.card-outline {
+    border-top: 3px solid #007bff;
+}
+
+.card-primary.card-outline-tabs>.card-header a:hover {
+    border-top: 3px solid #dee2e6;
+}
+
+.card-primary.card-outline-tabs>.card-header a.active,
+.card-primary.card-outline-tabs>.card-header a.active:hover {
+    border-top: 3px solid #007bff;
+}
+
+.bg-primary>.card-header .btn-tool,
+.bg-gradient-primary>.card-header .btn-tool,
+.card-primary:not(.card-outline)>.card-header .btn-tool {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.bg-primary>.card-header .btn-tool:hover,
+.bg-gradient-primary>.card-header .btn-tool:hover,
+.card-primary:not(.card-outline)>.card-header .btn-tool:hover {
+    color: #fff;
 }
