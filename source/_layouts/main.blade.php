@@ -43,20 +43,19 @@
 
     @include('_layouts.navbar')
 
-    
+
     @yield('body')
 
 
     @include('_layouts.footer')
 
-
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
+    <!-- JQuery -->
+    <script src="{{ mix('js/jquery.min.js' , 'assets/build') }}"></script>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="{{ mix('lib/wow/wow.min.js' , 'assets/build') }}"></script>
     <script src="{{ mix('lib/easing/easing.min.js' , 'assets/build') }}"></script>
     <script src="{{ mix('lib/waypoints/waypoints.min.js' , 'assets/build') }}"></script>
@@ -69,6 +68,8 @@
 
     <!-- Template Javascript -->
     <script src="{{ mix('js/main.js' , 'assets/build') }}"></script>
+
+    @yield('scripts')
 </body>
 
 </html>
