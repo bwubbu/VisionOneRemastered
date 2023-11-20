@@ -1,28 +1,9 @@
 @extends('_layouts.main')
 
 @section('body')
-<!-- Navbar Start -->
-<nav class="navbar navbar-expand-lg bg-secondary navbar-dark sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s" style="height:4rem">
-    <a href="/" class="navbar-brand ms-4 ms-lg-0">
-        <img width="300" height="67" src="https://visionone.com.my/wp-content/uploads/2015/07/logo-300x67.png" alt="Logo" />
-    </a>
-    <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-        <div class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="/" class="nav-item nav-link">Home</a>
-            <a href="/about" class="nav-item nav-link">About</a>
-            <a href="/service" class="nav-item nav-link">Service</a>
-            <a href="/project" class="nav-item nav-link">Project</a>
-            <a href="/contact" class="nav-item nav-link active">Contact</a>
-        </div>
-    </div>
-</nav>
-<!-- Navbar End -->
 
 <!-- Page Header Start -->
-<div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+<div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container text-center py-5">
         <h1 class="display-3 text-white text-uppercase mb-3 animated slideInDown">Contact</h1>
     </div>
