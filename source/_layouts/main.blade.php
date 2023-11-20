@@ -24,6 +24,9 @@
     <!-- Customized Bootstrap Stylesheet -->
     <link href="{{ mix('css/bootstrap.css' , 'assets/build') }}" rel="stylesheet">
 
+    <!-- DataTables Stylesheet -->
+    <link href="{{ mix('css/dataTables.bootstrap5.min.css' , 'assets/build') }}" rel='stylesheet' >
+
     <!-- Template Stylesheet -->
     <link href="{{ mix('css/style.css' , 'assets/build') }}" rel="stylesheet">
 </head>
@@ -55,6 +58,11 @@
     <script src="{{ mix('lib/easing/easing.min.js' , 'assets/build') }}"></script>
     <script src="{{ mix('lib/waypoints/waypoints.min.js' , 'assets/build') }}"></script>
     <script src="{{ mix('lib/owlcarousel/owl.carousel.min.js' , 'assets/build') }}"></script>
+
+    <!-- DataTables Javascript -->
+    <script src="{{ mix('js/jquery.dataTables.min.js' , 'assets/build') }}"></script>
+    <script src="{{ mix('js/responsive.bootstrap5.min.js' , 'assets/build') }}"></script>
+    <script src="{{ mix('js/dataTables.bootstrap5.min.js' , 'assets/build') }}"></script>
 
     <!-- Template Javascript -->
     <script src="{{ mix('js/main.js' , 'assets/build') }}"></script>

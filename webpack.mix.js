@@ -15,4 +15,10 @@ mix.jigsaw()
         processCssUrls: false,
     })
     .copy('node_modules/bootstrap/dist/js/bootstrap.bundle.min.js', 'source/assets/build/js') // Copy Bootstrap JS
+    .copy('node_modules/datatables.net-bs5/js/dataTables.bootstrap5.min.js', 'source/assets/build/js') // Copy DataTables JS
+    .copy('node_modules/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js', 'source/assets/build/js') // Copy DataTables Responsive JS
+    .copy('node_modules/datatables.net-bs5/css/dataTables.bootstrap5.min.css', 'source/assets/build/css') // Copy DataTables CSS
+    .copy('node_modules/datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css', 'source/assets/build/css') // Copy DataTables Responsive CSS
+    .copy('node_modules/datatables.net/js/jquery.dataTables.min.js', 'source/assets/build/js') // Copy DataTables JS
+    .copy('node_modules/@popperjs/core/dist/umd/popper.min.js', 'source/assets/build/js') // Copy Popper.js
     .version();
