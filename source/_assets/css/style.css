@@ -355,17 +355,6 @@
     margin-bottom: 0.75rem;
 }
 
-.card-header>.card-tools .input-group,
-.card-header>.card-tools .nav,
-.card-header>.card-tools .pagination {
-    margin-bottom: -0.3rem;
-    margin-top: -0.3rem;
-}
-
-.card-header>.card-tools [data-toggle="tooltip"] {
-    position: relative;
-}
-
 .card-primary:not(.card-outline)>.card-header {
     background-color: #007bff;
 }
@@ -402,4 +391,14 @@
 .bg-gradient-primary>.card-header .btn-tool:hover,
 .card-primary:not(.card-outline)>.card-header .btn-tool:hover {
     color: #fff;
+}
+
+/* Add a style for the collapsed class */
+.collapsed .card-body {
+    display: none;
+}
+
+/* Add a smooth transition for the card-body */
+.card-body {
+    transition: display 0.3s ease;
 }

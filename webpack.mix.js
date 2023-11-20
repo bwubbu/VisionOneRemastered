@@ -15,6 +15,7 @@ mix.jigsaw()
         processCssUrls: false,
     })
     .copy('node_modules/bootstrap/dist/js/bootstrap.bundle.min.js', 'source/assets/build/js') // Copy Bootstrap JS
+    .copy('node_modules/jquery/dist/jquery.min.js', 'source/assets/build/js') // Copy Bootstrap JS
     .copy('node_modules/datatables.net-bs5/js/dataTables.bootstrap5.min.js', 'source/assets/build/js') // Copy DataTables JS
     .copy('node_modules/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js', 'source/assets/build/js') // Copy DataTables Responsive JS
     .copy('node_modules/datatables.net-bs5/css/dataTables.bootstrap5.min.css', 'source/assets/build/css') // Copy DataTables CSS
