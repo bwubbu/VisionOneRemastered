@@ -15,10 +15,28 @@
         <div class="row">
             <div class="col-md-12">
                 <h1>Our Valued Customers</h1>
-                <div class="collaborators-container">
-                    <ul class="collaborators-list">
-                        
-                    </ul>
+                <div class="collaborators-container p-3">
+                    <div class="collaborators-list">
+                        <div class="collaborators-group" id="collaborators-group">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.jpeg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.jpg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/SGS-NORMAL.jpg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TITAN PETCHEM.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TNB.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TOYO ENGINEERING.jpeg') }}" alt="Image">
+
+                            <!-- Duplicate images here -->
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.jpeg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1062,5 +1080,32 @@
             "responsive": true,
         });
     });
+</script>
+<script>
+    const collaboratorsGroup = document.getElementById('collaborators-group');
+
+    function scrollAnimation() {
+        const animationDuration = 20000; // 20 seconds
+        const translateDistance = -68; // 100% to the left
+
+        collaboratorsGroup.style.transition = `transform ${animationDuration}ms linear`;
+        collaboratorsGroup.style.transform = `translateX(${translateDistance}%)`;
+
+        function resetAnimation() {
+            collaboratorsGroup.style.transition = '';
+            collaboratorsGroup.style.transform = 'translateX(0)';
+            requestAnimationFrame(() => {
+                collaboratorsGroup.offsetHeight; // Trigger a reflow
+                scrollAnimation();
+            });
+        }
+
+        // Reset the animation when it ends
+        collaboratorsGroup.addEventListener('transitionend', resetAnimation);
+
+        setTimeout(resetAnimation, animationDuration);
+    }
+
+    scrollAnimation();
 </script>
 @endsection
