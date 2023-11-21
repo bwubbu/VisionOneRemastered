@@ -17,7 +17,7 @@
                 <h1>Our Valued Customers</h1>
                 <div class="collaborators-container">
                     <ul class="collaborators-list">
-                        <li><img src="{{ $collaborator['image'] }}" alt="{{ $collaborator['name'] }}"></li>
+                        
                     </ul>
                 </div>
             </div>
