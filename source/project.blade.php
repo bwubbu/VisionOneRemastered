@@ -12,33 +12,7 @@
 <!-- Project Words Start -->
 <div class="container-xxl">
     <div class="container">
-        <div class="col-lg-9 wow fadeIn" data-wow-delay="0.5s" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
-            <h1 class="text-uppercase mb-4">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
-            <p>Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection, nondestructive testing, maintenance and repair. These provisions of services adhere to the international standards in state-of –the-art and conventional methods with the goal in delivering the work with quality and utmost integrity to meet customer satisfaction.</p>
-            <p class="mb-4">The company is registered and accredited by national and international certifying bodies. The company composed of congregates of highly competent, certified and qualified personnel in specific fields of services.</p>
-            <p class="mb-4">Vision One Sdn. Bhd. together with its associate companies will form collaborative arrangements to achieve its business targets. The capacity, expertise and experiences within the group provide VOSB and its associate a competitive service advantage.</p>
-            <p class="mb-4">Vision One Sdn. Bhd. meticulous inclination and positioning will be to appeal to the private and public entities the value of professional services from experienced personnel who are committed to carry out projects objectively and technically in accordance with the international standards and code of practice to ensure its viability and delivery
-                as per requirements to meet customers’ expectations. The utilization of state-of-the-art equipment and software solutions on every project will enhance customers’ ability to meet its operation requirements.</p>
-            <div class="row g-4">
-                <div class="col-md-6">
-                    <h3 class="text-uppercase mb-3">Vision</h3>
-                    <p>To be the leader, bridge the gap between conventional and innovative solutions.</p>
-                    <details>
-                        <summary>Show Vision</summary>
-                        <p>Vision One Sdn. Bhd. committed to the mission of upholding the value of customer convictions and services proficiency detailed with precision. Moreover, to substantiate the company’s capability to provide technical solution, inspection, nondestructive testing, maintenance and repair to private and public entities within energy, power and petrochemical industries by providing a services with the assurance of quality and integrity. Breaking through from conventional and advanced technology development in equipment, facilities and personnel expertise.</p>
-                        <p>To implement and to maintain continuous improvement of the quality system to provide efficient services utilizing its resources, infrastructures, and competent, qualified, and experienced personnel to achieve the customer expectation and satisfaction.S</p>
-                    </details>
-                </div>
-                <div class="col-md-6">
-                    <h3 class="text-uppercase mb-3">Mission</h3>
-                    <p>Pursue, acquire, introduce and drive innovative, advanced solutions into the energy, power and petrochemical industries</p>
-                    <details>
-                        <summary>Show Mission</summary>
-                        <p>Vision One Sdn. Bhd. aspiration to be the national and international leading provider of technical solution, inspection, nondestructive testing, maintenance and repair to the respected customers in energy, power, and petrochemical industries.</p>
-                    </details>
-                </div>
-            </div>
-        </div>
+        
     </div>
 </div>
 <!-- Project Words End -->
@@ -302,7 +276,7 @@
                     <tr>
                         <th>40</th>
                         <td>Pioneer Engineering Sdn Bhd</td>
-                        <td>CHESS – Blasting & Painting job via Rope Access</td>
+                        <td>CHESS - Blasting & Painting job via Rope Access</td>
                         <td>2011 - 2013</td>
                     </tr>
                     <tr>
@@ -433,7 +407,7 @@
                     </tr>
                     <tr>
                         <th>62</th>
-                        <td>Careion Technologist – Petronas LPG</td>
+                        <td>Careion Technologist - Petronas LPG</td>
                         <td>UTTM for sphere Tank using Rope Access at LPG Klang</td>
                         <td>2010</td>
                     </tr>
@@ -446,7 +420,7 @@
                     <tr>
                         <th>64</th>
                         <td>Nippon Oil Exploration (Malaysia) Ltd.</td>
-                        <td>Provision of Interim Inspection Services for Nippon’s Onshore and Offshore Activities</td>
+                        <td>Provision of Interim Inspection Services for Nippon's Onshore and Offshore Activities</td>
                         <td>2009</td>
                     </tr>
                     <tr>
@@ -458,31 +432,31 @@
                     <tr>
                         <th>66</th>
                         <td>Talisman Malaysia Limited</td>
-                        <td>Rope Access Inspection Campaign – Process Piping for Gas Platform Bunga Raya Echo.</td>
+                        <td>Rope Access Inspection Campaign - Process Piping for Gas Platform Bunga Raya Echo.</td>
                         <td>2009</td>
                     </tr>
                     <tr>
                         <th>67</th>
                         <td>Talisman Malaysia Limited</td>
-                        <td>Rope Access Inspection Campaign – Process Piping and Riser for PM3 Main Platform and 7 Satellite Platforms.</td>
+                        <td>Rope Access Inspection Campaign - Process Piping and Riser for PM3 Main Platform and 7 Satellite Platforms.</td>
                         <td>2009</td>
                     </tr>
                     <tr>
                         <th>68</th>
                         <td>Optimal Chemical Sdn Bhd</td>
-                        <td>NDt Services for Heat Exchanger, Pressure Vessel & Fabrication Project – Shutdown Replacement Equipment.</td>
+                        <td>NDt Services for Heat Exchanger, Pressure Vessel & Fabrication Project - Shutdown Replacement Equipment.</td>
                         <td>2009</td>
                     </tr>
                     <tr>
                         <th>69</th>
                         <td>Kerteh Terminal Sdn Bhd</td>
-                        <td>Rope access integrity inspection – Provision of Ultrasonic Thickness measurement, visual inspection, corrosion mapping & acoustic emission testing on 3 units of Spherical Tanks.</td>
+                        <td>Rope access integrity inspection - Provision of Ultrasonic Thickness measurement, visual inspection, corrosion mapping & acoustic emission testing on 3 units of Spherical Tanks.</td>
                         <td>2009</td>
                     </tr>
                     <tr>
                         <th>70</th>
                         <td>FPG Oleochemical</td>
-                        <td>Turnaround 2008 – Corrosion Monitoring B-Scan on 3 units Cooler.</td>
+                        <td>Turnaround 2008 - Corrosion Monitoring B-Scan on 3 units Cooler.</td>
                         <td>2008</td>
                     </tr>
                     <tr>
@@ -494,19 +468,19 @@
                     <tr>
                         <th>72</th>
                         <td>Trenergy FPSO Sdn Bhd</td>
-                        <td>Integrity Inspection – Statutory Equipment – UTTM, Visual inspection & Corrosion Monitoring CSCAN.</td>
+                        <td>Integrity Inspection - Statutory Equipment - UTTM, Visual inspection & Corrosion Monitoring CSCAN.</td>
                         <td>2008</td>
                     </tr>
                     <tr>
                         <th>73</th>
                         <td>Trenergy FPSO Sdn Bhd</td>
-                        <td>Integrity inspection – Process Piping Rope Access UTTM & Visual Inspection.</td>
+                        <td>Integrity inspection - Process Piping Rope Access UTTM & Visual Inspection.</td>
                         <td>2008</td>
                     </tr>
                     <tr>
                         <th>74</th>
                         <td>Perwaja Steel Sdn Bhd</td>
-                        <td>NDt Services for Heat Exchanger Fabrication Project – Shutdown Replacement Equipment.</td>
+                        <td>NDt Services for Heat Exchanger Fabrication Project - Shutdown Replacement Equipment.</td>
                         <td>2008</td>
                     </tr>
                     <tr>
@@ -578,7 +552,7 @@
                     <tr>
                         <th>86</th>
                         <td>EDARAN ASIA PTD LTD</td>
-                        <td>Consultancy services for Quality Manual System – Process piping fabrication project compliance with API/ASME Code of Practices.</td>
+                        <td>Consultancy services for Quality Manual System - Process piping fabrication project compliance with API/ASME Code of Practices.</td>
                         <td>2005</td>
                     </tr>
                     <tr>
@@ -650,7 +624,7 @@
                     <tr>
                         <th>98</th>
                         <td>DET NORSKE VERITAS AS SDN BHD</td>
-                        <td>Coating Inspection for EPCC – MPP at Bredero Price Kuantan Port</td>
+                        <td>Coating Inspection for EPCC - MPP at Bredero Price Kuantan Port</td>
                         <td>1998</td>
                     </tr>
                     <tr>
@@ -797,25 +771,25 @@
                     <tr>
                         <th>18</th>
                         <td>Petra Fabricators Sdn Bhd</td>
-                        <td>Thinning & Monomer Tank – Cray Valley Project</td>
+                        <td>Thinning & Monomer Tank - Cray Valley Project</td>
                         <td>2015</td>
                     </tr>
                     <tr>
                         <th>19</th>
                         <td>Petra Fabricators Sdn Bhd</td>
-                        <td>Crude Oil Custody Transfer Metering Skid – Gaspian Sea FSO</td>
+                        <td>Crude Oil Custody Transfer Metering Skid - Gaspian Sea FSO</td>
                         <td>2015</td>
                     </tr>
                     <tr>
                         <th>20</th>
                         <td>JGC Corp.</td>
-                        <td>Gas Metering Skid – Thai Lube Oil Project</td>
+                        <td>Gas Metering Skid - Thai Lube Oil Project</td>
                         <td>2015</td>
                     </tr>
                     <tr>
                         <th>21</th>
                         <td>Bestwide Engineering Sdn Bhd</td>
-                        <td>Chemical Injection Skid – EPMI Bunga Seroja Platform</td>
+                        <td>Chemical Injection Skid - EPMI Bunga Seroja Platform</td>
                         <td>2015</td>
                     </tr>
                     <tr>
@@ -844,22 +818,19 @@
                     </tr>
                     <tr>
                         <th>26</th>
-                        <td>Polyplastic Asia Pacific Sdn Bhd</td>
-                        <td>(EPCC is Oversea Technical Engineering & Construction Pte Ltd)</td>
+                        <td>Polyplastic Asia Pacific Sdn Bhd <br> (EPCC is Oversea Technical Engineering & Construction Pte Ltd)</td>
                         <td>Fabrication and erection of 1 unit of Demin Water Storage Tank c/w Distribution Piping System at MP2 Project</td>
                         <td>2011</td>
                     </tr>
                     <tr>
                         <th>27</th>
-                        <td>Kaneka Polymer Plastic (M) Sdn Bhd</td>
-                        <td>(EPCC Company is Mitsubishi Kokaki Kaisha Pte Ltd)</td>
+                        <td>Kaneka Polymer Plastic (M) Sdn Bhd <br> (EPCC Company is Mitsubishi Kokaki Kaisha Pte Ltd)</td>
                         <td>Fabrication and erection of 1 unit of Water Storage Tank at Kaneka MEP Project</td>
                         <td>2011</td>
                     </tr>
                     <tr>
                         <th>28</th>
-                        <td>Polyplastic Asia Pacific Sdn Bhd</td>
-                        <td>(EPCC is Oversea Technical Engineering & Construction Pte Ltd)</td>
+                        <td>Polyplastic Asia Pacific Sdn Bhd <br> (EPCC is Oversea Technical Engineering & Construction Pte Ltd)</td>
                         <td>Fabrication and erection of 1 unit of Demin Water Storage Tank c/w Distribution Piping System at MP2 Project</td>
                         <td>2011</td>
                     </tr>
@@ -877,8 +848,7 @@
                     </tr>
                     <tr>
                         <th>31</th>
-                        <td>Sunpower Melaka Solar Manufacturing (M) Sdn Bhd</td>
-                        <td>(EPCC Company is PT Technic Engineering Sdn Bhd)</td>
+                        <td>Sunpower Melaka Solar Manufacturing (M) Sdn Bhd <br> (EPCC Company is PT Technic Engineering Sdn Bhd)</td>
                         <td>EPCC of Diesel Storage Tank c/w Distribution Piping Works</td>
                         <td>2010</td>
                     </tr>
@@ -896,8 +866,7 @@
                     </tr>
                     <tr>
                         <th>34</th>
-                        <td>Kaneka Polymer Plastic (M) Sdn Bhd</td>
-                        <td>(EPCC Company is Mitsubishi Kokaki Kaisha Pte Ltd)</td>
+                        <td>Kaneka Polymer Plastic (M) Sdn Bhd <br> (EPCC Company is Mitsubishi Kokaki Kaisha Pte Ltd)</td>
                         <td>Fabrication and erection of 1 unit of Water Storage Tank at Kaneka MEP Project</td>
                         <td>2010</td>
                     </tr>
@@ -927,8 +896,7 @@
                     </tr>
                     <tr>
                         <th>39</th>
-                        <td>Sunpower Melaka Solar Manufacturing (M) Sdn Bhd</td>
-                        <td>(EPCC Company is PT Technic Engineering Sdn Bhd)</td>
+                        <td>Sunpower Melaka Solar Manufacturing (M) Sdn Bhd <br> (EPCC Company is PT Technic Engineering Sdn Bhd)</td>
                         <td>EPCC of Diesel Storage Tank c/w Distribution Piping Works</td>
                         <td>2009</td>
                     </tr>
@@ -946,8 +914,7 @@
                     </tr>
                     <tr>
                         <th>42</th>
-                        <td>Petronas Penapisan (Melaka) Sdn Bhd</td>
-                        <td>(EPCC Company is PT Technic Engineering Sdn Bhd)</td>
+                        <td>Petronas Penapisan (Melaka) Sdn Bhd <br> (EPCC Company is PT Technic Engineering Sdn Bhd)</td>
                         <td>Fabrication and erection of 7 units of Water Storage Tanks at MG3 Project c/w Tank Farm Interconnection Piping Works</td>
                         <td>2009</td>
                     </tr>
@@ -965,8 +932,7 @@
                     </tr>
                     <tr>
                         <th>45</th>
-                        <td>Port Tanjung Langsat Sdn Bhd</td>
-                        <td>(EPCC Company is Saga Dialog Sdn Bhd)</td>
+                        <td>Port Tanjung Langsat Sdn Bhd <br> (EPCC Company is Saga Dialog Sdn Bhd)</td>
                         <td>Fabrication and erection of 2 units of Diesel Storage Tanks at Langsat Terminal One and Langsat CTF c/w Interconnecting Piping in Tank Farm at Tanjung Langsat Johor</td>
                         <td>2008</td>
                     </tr>
@@ -991,7 +957,7 @@
                     <tr>
                         <th>49</th>
                         <td>TNB ENGINEERING CORPORATION SDN BHD</td>
-                        <td>Transfer of MPO at Prai Power Station – Fabrication of metering pump skid.</td>
+                        <td>Transfer of MPO at Prai Power Station - Fabrication of metering pump skid.</td>
                         <td>2004</td>
                     </tr>
                     <tr>
@@ -1003,7 +969,7 @@
                     <tr>
                         <th>51</th>
                         <td>ETHYLENE MALAYSIA SDN BHD</td>
-                        <td>Fabrication and supply of bell mouth for cracking heater’s induced draft fan motor</td>
+                        <td>Fabrication and supply of bell mouth for cracking heater's induced draft fan motor</td>
                         <td>2004</td>
                     </tr>
                     <tr>
@@ -1015,7 +981,7 @@
                     <tr>
                         <th>53</th>
                         <td>ETHYLENE MALAYSIA SDN BHD</td>
-                        <td>Fabrication and supply of bell mouth for cracking heater’s induced draft fan motor</td>
+                        <td>Fabrication and supply of bell mouth for cracking heater's induced draft fan motor</td>
                         <td>2004</td>
                     </tr>
                     <tr>
@@ -1039,7 +1005,7 @@
                     <tr>
                         <th>57</th>
                         <td>ETHYLENE MALAYSIA SDN BHD</td>
-                        <td>Fabrication and site installation of 6-inch cracking heater’s decoking effluent line</td>
+                        <td>Fabrication and site installation of 6-inch cracking heater's decoking effluent line</td>
                         <td>2002</td>
                     </tr>
                 </tbody>
