@@ -5,7 +5,7 @@
 <!-- Page Header Start -->
 <div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container text-center py-5">
-        <h1 class="display-3 text-white text-uppercase mb-3 animated slideInDown">Contact</h1>
+        <h1 class="display-3 text-white text-uppercase mb-3 animated slideInDown">Contact Us</h1>
     </div>
 </div>
 <!-- Page Header End -->
@@ -13,7 +13,7 @@
 <div class="container-xxl">
     <div class="container">
         <div class="text-center mx-auto mb-4 wow pulse" data-wow-delay="0.3s">
-            <h4 class="text-uppercase">While subscribing to the mission statement, Vision One derives a set of business objectives, namely:</h4>
+            <h2 class="text-uppercase">While subscribing to the mission statement, Vision One derives a set of business objectives, namely:</h2>
         </div>
         <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
             <h5 class="text-uppercase">Identify and provide immediate solutions to customer needs.</h5>
