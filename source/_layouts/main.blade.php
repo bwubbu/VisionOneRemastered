@@ -53,6 +53,7 @@
     <a href="#" class="btn btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
     <!-- JQuery -->
+    <script src="{{ mix('js/bootstrap.bundle.min.js' , 'assets/build') }}"></script>
     <script src="{{ mix('js/jquery.min.js' , 'assets/build') }}"></script>
 
     <!-- JavaScript Libraries -->

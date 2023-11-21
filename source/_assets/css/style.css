@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #2ad3d3;
+    --primary: #2aaed3;
     --secondary: #191C24;
-    --light: #6C7293;
+    --light: rgb(69, 70, 72);
     --dark: #000000;
 }
 
@@ -401,4 +401,29 @@
 /* Add a smooth transition for the card-body */
 .card-body {
     transition: display 0.3s ease;
+}
+
+/* Add a collab scroll */
+.collaborators-container {
+    overflow: hidden;
+}
+
+.collaborators-list {
+    display: flex;
+    animation: scroll 20s linear infinite;
+}
+
+.collaborators-list li {
+    margin-right: 20px;
+    /* Adjust the spacing between images */
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
 }
