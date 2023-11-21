@@ -15,17 +15,17 @@
                 </div>
             </div>
             <div class="carousel-item">
-    <img class="w-100" src="{{ url('assets/build/img/anamo.jpg') }}" alt="Image">
-    <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
-        <div class="mx-sm-5 px-5" style="max-width: 900px;">
-            <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">About Us</h1>
-                <p class="text-white mb-4 animated slideInDown" style="text-align: center;">Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection, nondestructive testing, maintenance and repair.</p>
-                    <div class="col-12 text-center"> <!-- Add text-center class here -->
-                        <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
+                <img class="w-100" src="{{ url('assets/build/img/anamo.jpg') }}" alt="Image">
+                <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
+                    <div class="mx-sm-5 px-5" style="max-width: 900px;">
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">About Us</h1>
+                        <p class="text-white mb-4 animated slideInDown" style="text-align: center;">Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection, nondestructive testing, maintenance and repair.</p>
+                        <div class="col-12 text-center"> <!-- Add text-center class here -->
+                            <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
             <div class="carousel-item">
                 <img class="w-100" src="{{ url('assets/build/img/oil-gas-banner.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
@@ -40,7 +40,7 @@
                 <img class="w-100" src="{{ url('assets/build/img/img3.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                    <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Get In Touch With Us!</h1>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Get In Touch With Us!</h1>
                         <div class="col-12 text-center"> <!-- Add text-center class here -->
                             <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
                         </div>
