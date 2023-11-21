@@ -12,7 +12,16 @@
 <!-- Project Words Start -->
 <div class="container-xxl">
     <div class="container">
-        
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Our Valued Customers</h1>
+                <div class="collaborators-container">
+                    <ul class="collaborators-list">
+                        <li><img src="{{ $collaborator['image'] }}" alt="{{ $collaborator['name'] }}"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <!-- Project Words End -->
