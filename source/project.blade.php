@@ -21,19 +21,19 @@
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.jpeg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.jpg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/SGS-NORMAL.jpg') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TITAN PETCHEM.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TNB.png') }}" alt="Image">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TOYO ENGINEERING.jpeg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TOYO ENGINEERING.png') }}" alt="Image">
 
                             <!-- Duplicate images here -->
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.jpeg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
                         </div>
                     </div>
