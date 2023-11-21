@@ -10,6 +10,32 @@
 </div>
 <!-- Page Header End -->
 
+<div class="container-xxl">
+    <div class="container">
+        <div class="text-center mx-auto mb-4 wow pulse" data-wow-delay="0.3s">
+            <h4 class="text-uppercase">While subscribing to the mission statement, Vision One derives a set of business objectives, namely:</h4>
+        </div>
+        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
+            <h5 class="text-uppercase">Identify and provide immediate solutions to customer needs.</h5>
+        </div>
+        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
+            <h5 class="text-uppercase">Establish a reputation as an excellent local Malaysian solution provider.</h5>
+        </div>
+        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
+            <h5 class="text-uppercase">Gain customer trust and satisfaction in every offered solution.</h5>
+        </div>
+        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
+            <h5 class="text-uppercase">Identify and establish a network of reputable Malaysian entrepreneurs, companies and operators for mutually benefiting business arrangements.</h5>
+        </div>
+        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
+            <h5 class="text-uppercase">Provide a conducive working partnership among business stakeholders through continuously improving business ethics and integrity.</h5>
+        </div>
+        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
+            <h5 class="text-uppercase">Provide a conducing working environment for all staff to excel in their productivity and be successful in their career and personal life.</h5>
+        </div>
+    </div>
+</div>
+
 <!-- Contact Start -->
 <div class="container-xxl py-5">
     <div class="container">

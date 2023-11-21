@@ -23,11 +23,9 @@
                         <div class="btn-square bg-dark flex-shrink-0 me-3">
                             <span class="fa fa-envelope-open text-primary"></span>
                         </div>
-                        <span>For sales –<br>
-                            faiz@visionone.com.my<br>
+                        <span>For sales:<br>
                             sales@visionone.com.my<br>
-                            For enquiry –<br>
-                            affilah@visionone.com.my<br>
+                            For enquiry:<br>
                             enquiry@visionone.com.my</span>
                     </div>
                 </div>

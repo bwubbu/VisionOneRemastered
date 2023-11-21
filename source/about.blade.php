@@ -15,7 +15,7 @@
 <div class="container-xxl">
     <div class="container">
         <div class="col-lg-9" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
-            <h1 class="text-uppercase mb-4 text-center wow bounceIn"  data-wow-delay="0.5s">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
+            <h1 class="text-uppercase mb-4 text-center wow pulse"  data-wow-delay="1.0s">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
             <div class="row" style="padding-top: 20px; padding-bottom: 30px;">
                 <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.5s">
                     <img class="img-fluid" src="assets/build/img/MaintenancePic.jpg" alt="Image">
@@ -28,8 +28,8 @@
             </div>
             <div class="row" style="padding-top: 20px; padding-bottom: 50px;">
                 <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.5s">
-                <h4 class="mb-4">Vision One Sdn. Bhd. together with its associate companies will form collaborative arrangements to achieve its business targets. The capacity, expertise and 
-                    experiences within the group provide VOSB and its associate a competitive service advantage.</h4>
+                <h4 class="mb-4">The company is registered and accredited by national and international certifying bodies. The company composed of congregates 
+                    of highly competent, certified and qualified personnel in specific fields of services.</h4>
                 </div>
                 <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.5s">
                     <img class="img-fluid" src="assets/build/img/Accreditation.jpg" alt="Image">
@@ -48,7 +48,7 @@
         </div>
     </div>
     <div class="row g-4">
-        <div class="col-md-6 wow wobble" style="text-align: center;" data-wow-delay="0.5s">
+        <div class="col-md-6 wow bounce" style="text-align: center;" data-wow-delay="0.5s">
             <h3 class="text-uppercase mb-3">Vision</h3>
             <h4>To be the leader, bridge the gap between conventional and innovative solutions.</h4>
             <details style="padding-top: 20px;">
@@ -59,7 +59,7 @@
                 <p>To implement and to maintain continuous improvement of the quality system to provide efficient services utilizing its resources, infrastructures, and competent, qualified, and experienced personnel to achieve the customer expectation and satisfaction.S</p>
             </details>
         </div>
-        <div class="col-md-6 wow wobble" style="text-align: center;" data-wow-delay="0.5s">
+        <div class="col-md-6 wow bounce" style="text-align: center;" data-wow-delay="0.5s">
             <h3 class="text-uppercase mb-3">Mission</h3>
             <h4>Pursue, acquire, introduce and drive innovative, advanced solutions into the energy, power and petrochemical industries</h4>
             <details style="padding-top: 20px;">
