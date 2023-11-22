@@ -35,6 +35,7 @@
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
+                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.png') }}" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -1086,7 +1087,7 @@
 
     function scrollAnimation() {
         const animationDuration = 20000; // 20 seconds
-        const translateDistance = -68; // 100% to the left
+        const translateDistance = -62.7; // 100% to the left
 
         collaboratorsGroup.style.transition = `transform ${animationDuration}ms linear`;
         collaboratorsGroup.style.transform = `translateX(${translateDistance}%)`;
