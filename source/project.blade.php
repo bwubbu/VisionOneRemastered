@@ -1087,7 +1087,7 @@
 
     function scrollAnimation() {
         const animationDuration = 20000; // 20 seconds
-        const translateDistance = -62.7; // 100% to the left
+        const translateDistance = -62.7; // 62.7% to the left
 
         collaboratorsGroup.style.transition = `transform ${animationDuration}ms linear`;
         collaboratorsGroup.style.transform = `translateX(${translateDistance}%)`;
