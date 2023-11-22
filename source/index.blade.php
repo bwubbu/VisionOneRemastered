@@ -18,11 +18,8 @@
                 <img class="w-100" src="{{ url('assets/build/img/anamo.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">About Us</h1>
-                        <p class="text-white mb-4 animated slideInDown" style="text-align: center;">Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection, nondestructive testing, maintenance and repair.</p>
-                        <div class="col-12 text-center"> <!-- Add text-center class here -->
-                            <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
-                        </div>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Solutions Provider</h1>
+                        <p class="text-white mb-4 animated slideInDown" style="text-align: center; font-size: 30px;">Vision One utilizes the skills of its management employees and associates to support and consultation in the oil and gas industry, petrochemical and marine operation</p>
                     </div>
                 </div>
             </div>
@@ -30,9 +27,8 @@
                 <img class="w-100" src="{{ url('assets/build/img/oil-gas-banner.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Get </h1>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Our Mission</h1>
+                        <p class="text-white mb-4 animated slideInDown" style="text-align: center; font-size: 30px;">Committed to the mission of upholding the value of customer convictions and services proficiency detailed with precision.</p>
                     </div>
                 </div>
             </div>
@@ -40,10 +36,7 @@
                 <img class="w-100" src="{{ url('assets/build/img/img3.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Get In Touch With Us!</h1>
-                        <div class="col-12 text-center"> <!-- Add text-center class here -->
-                            <button class="btn btn-primary w-40 py-3 animated slideInDown" type="submit">READ MORE</button>
-                        </div>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Browse More From Us!</h1>
                     </div>
                 </div>
             </div>
