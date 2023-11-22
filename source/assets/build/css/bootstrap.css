@@ -232,7 +232,7 @@ sup {
 }
 
 a {
-    color: #EB1616;
+    color: #2aaed3;
     text-decoration: none;
 }
 
@@ -5153,7 +5153,7 @@ fieldset:disabled .btn {
 .page-link {
     position: relative;
     display: block;
-    color: #EB1616;
+    color: #2aaed3;
     background-color: #fff;
     border: 1px solid #dee2e6;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -5187,8 +5187,8 @@ fieldset:disabled .btn {
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #EB1616;
-    border-color: #EB1616;
+    background-color: #2aaed3;
+    border-color: #2aaed3;
 }
 
 .page-item.disabled .page-link {
@@ -8289,7 +8289,7 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-    color: #EB1616 !important;
+    color: #2aaed3 !important;
 }
 
 .text-secondary {
