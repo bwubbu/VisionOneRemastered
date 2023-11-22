@@ -41,7 +41,7 @@
                     <h4 class="text-uppercase mb-4">Newsletter</h4>
                     <div class="position-relative mb-4">
                         <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Sign Up!</button>
                     </div>
                     <div class="d-flex pt-1 m-n1">
                         <a class="btn btn-lg-square btn-dark text-primary m-1" href=""><i class="fab fa-twitter"></i></a>
@@ -55,7 +55,7 @@
         <div class="container">
             <div class="copyright">
                 <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                    <div class="col-md-8 text-center text-md-start mb-3 mb-md-0">
                         &copy; <a class="border-bottom" href="#">One Vision Sdn Bhd</a>, All Right Reserved.
                     </div>
                 </div>
