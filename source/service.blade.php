@@ -14,9 +14,9 @@
     <div class="container">
         <div class="col-lg-9 wow fadeIn" data-wow-delay="0.5s" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
             <h1 class="text-uppercase mb-4">Business & Services</h1>
-            <p class="mb-3">Vision One Sdn Bhd will offer services specialized and integrated technical solutions especially in oil and gas – energy industry, power generation operators, and petrochemical industry.</p>
-            <p class="mb-3">Services include fabrication, maintenance, repair and provisions of competent and experienced inspectors, engineers and technicians to carry out inspection and nondestructive testing utilizing the international standard and code of practices, and advanced technology in terms of equipment and software solutions.</p>
-            <p class="mb-5">The integrated services will be most attractive especially to those lacking the in-house expertise or for one-off jobs. These services will be specifically planned and organized in accordance with the customer requirements and expectations.</p>
+            <p class="mb-3" style="color: white;">Vision One Sdn Bhd will offer services specialized and integrated technical solutions especially in oil and gas – energy industry, power generation operators, and petrochemical industry.</p>
+            <p class="mb-3" style="color: white;">Services include fabrication, maintenance, repair and provisions of competent and experienced inspectors, engineers and technicians to carry out inspection and nondestructive testing utilizing the international standard and code of practices, and advanced technology in terms of equipment and software solutions.</p>
+            <p class="mb-5" style="color: white;">The integrated services will be most attractive especially to those lacking the in-house expertise or for one-off jobs. These services will be specifically planned and organized in accordance with the customer requirements and expectations.</p>
         </div>
     </div>
 </div>
@@ -26,7 +26,7 @@
     <div class="container">
         <div class="col-lg-9 wow fadeIn" data-wow-delay="0.5s" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
             <h1 class="text-uppercase mb-4">OUR AMAZING WORK</h1>
-            <p>Our services run deep and are backed by over fifteen years of experience.</p>
+            <p style="color: white;">Our services run deep and are backed by over fifteen years of experience.</p>
         </div>
 
         <!-- Manpower Resources – Inspection and Testing -->
@@ -201,7 +201,7 @@
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h1 class="text-uppercase">OUR SITE AND FACILITIES</h1>
             </div>
-            <div class="row g-4">
+            <div class="row g-4 justify-content-center" >
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="team-img position-relative overflow-hidden">
