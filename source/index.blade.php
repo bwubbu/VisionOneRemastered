@@ -60,10 +60,12 @@
                     <img class="img-fluid py-3" src="assets/build/img/FirstIndex.jpg" alt="" style="margin: 0 auto; display: block;">
                 </div>
                 <div class="down-content">
-                    <h4 class="text-center">Who Are We?</h4>
+                    <h3 class="text-center">Who We Are</h3>
                     <p class="text-center">Vision One Sdn. Bhd. is a company that focuses on the provision of technical solution, inspection...</p>
                     <div class="col-12 text-center">
+                    <a href="http://localhost:8000/about">
                         <button class="btn btn-primary w-40 py-3" type="submit">Read More</button>
+                    </a>
                     </div>
                 </div>
             </div>
@@ -74,11 +76,13 @@
                     <img class="img-fluid py-3" src="assets/build/img/SecondIndex.jpg" alt="" style="margin: 0 auto; display: block;">
                 </div>
                 <div class="down-content">
-                    <h4 class="text-center">What does Our Company Offer?</h4>
+                    <h3 class="text-center">What We Do</h3>
                     <p class="text-center">Vision One Sdn Bhd will offer services specialized and integrated technical solutions
                         especially in oil and gas...</p>
                     <div class="col-12  text-center">
+                    <a href="http://localhost:8000/service">
                         <button class="btn btn-primary w-40 py-3" type="submit">Read More</button>
+                    </a>
                     </div>
                 </div>
             </div>
@@ -89,10 +93,12 @@
                     <img class="img-fluid py-3" src="assets/build/img/AboutUsIndex.jpg" alt="" style="margin: 0 auto; display: block;">
                 </div>
                 <div class="down-content">
-                    <h4 class="text-center">Who Have We Worked With?</h4>
+                    <h3 class="text-center">Our Collaborators</h3>
                     <p class="text-center">Vision One Sdn. Bhd. have worked with various organizations ranging from local to international...</p>
                     <div class="col-12  text-center">
+                    <a href="http://localhost:8000/project">
                         <button class="btn btn-primary w-40 py-3" type="submit">Read More</button>
+                    </a>
                     </div>
                 </div>
             </div>
@@ -108,8 +114,10 @@
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
                         <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">Have Any Enquiries?</h1>
-                        <div class="text-center"> <!-- Add text-center class here -->
+                        <div class="text-center">
+                        <a href="http://localhost:8000/contact">
                             <button class="btn btn-primary w-20 py-3" type="submit">Contact Us</button>
+                            </a>
                         </div>
                     </div>
                 </div>
