@@ -405,7 +405,7 @@
 
 /* Add a collab scroll */
 .collaborators-container {
-    background-color: white; 
+    background-color: white;
     border-radius: 0.25rem;
     overflow: hidden;
     white-space: nowrap;
@@ -422,11 +422,22 @@
     overflow: hidden;
 }
 
-.collaborator-image {
-    max-height: 100%;
+.collaborators-group a {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* Center the image vertically */
 }
 
+.collaborator-image {
+    max-height: 100%;
+    width: auto;
+}
+
+
 .thumb img {
-    max-width: 100%; /* Set the maximum width to 100% of its container */
-    height: auto;    /* Maintain the aspect ratio */
+    max-width: 100%;
+    /* Set the maximum width to 100% of its container */
+    height: auto;
+    /* Maintain the aspect ratio */
 }
