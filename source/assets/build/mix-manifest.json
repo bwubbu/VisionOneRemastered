@@ -66,5 +66,8 @@
     "/css/dataTables.bootstrap5.min.css": "/css/dataTables.bootstrap5.min.css?id=559bd8b2bf4cea9a6b81f30255fb7b7b",
     "/css/responsive.bootstrap5.min.css": "/css/responsive.bootstrap5.min.css?id=c0dccd0ffa07af44fa864be5575e80af",
     "/js/jquery.dataTables.min.js": "/js/jquery.dataTables.min.js?id=72d0b5e6cecb2e8e556640b5ac0102d7",
-    "/js/popper.min.js": "/js/popper.min.js?id=31032b08bd8e72220462d3f54f8bd69a"
+    "/js/popper.min.js": "/js/popper.min.js?id=31032b08bd8e72220462d3f54f8bd69a",
+    "/img/AboutUsIndex.jpg": "/img/AboutUsIndex.jpg?id=9faa3ef8203b0fc501d15c06a4eef743",
+    "/img/FirstIndex.jpg": "/img/FirstIndex.jpg?id=3be15416e2f52f2e04b5edaf0ad0deee",
+    "/img/SecondIndex.jpg": "/img/SecondIndex.jpg?id=8411e7c5a315261d20109697580c8e57"
 }

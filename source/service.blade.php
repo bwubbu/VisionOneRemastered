@@ -141,7 +141,7 @@
                         <div class="bg-secondary h-100 d-flex flex-column justify-content-center p-5">
                             <h1 class="text-uppercase mb-4">FABRICATION, MANUFACTURING, MAINTENANCE AND REPAIR</h1>
                             <p style="color: white; text-align: justify;">Integrity inspection and nondestructive testing has been a worldwide practice for ages in order to determine and analyze potential hazard, potential safety risk of the asset and worker and establish control measures and strategy to maintain serviceability of asset. Vision Onde Sdn. Bhd. offers the following services of conventional and advanced NDT.</p>
-                            <div>  
+                            <div>
                                 <ol style="columns: 2; list-style: none; color: white; list-style: disc">
                                     <li>Process Pressure Vessels
                                         <ol style="list-style: circle">
