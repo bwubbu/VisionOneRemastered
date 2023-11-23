@@ -53,10 +53,10 @@
             <h4>To be the leader, bridge the gap between conventional and innovative solutions.</h4>
             <details style="padding-top: 20px;">
                 <summary>Read More</summary>
-                <p>Vision One Sdn. Bhd. committed to the mission of upholding the value of customer convictions and services proficiency detailed with precision. Moreover,
+                <p style="text-align: center; font-size: 20px">Vision One Sdn. Bhd. committed to the mission of upholding the value of customer convictions and services proficiency detailed with precision. Moreover,
                     to substantiate the company’s capability to provide technical solution, inspection, nondestructive testing, maintenance and repair to private and public
                     entities within energy, power and petrochemical industries by providing a services with the assurance of quality and integrity. Breaking through from conventional and advanced technology development in equipment, facilities and personnel expertise.</p>
-                <p>To implement and to maintain continuous improvement of the quality system to provide efficient services utilizing its resources, infrastructures, and competent, qualified, and experienced personnel to achieve the customer expectation and satisfaction.S</p>
+                <p style="text-align: center; font-size: 20px">To implement and to maintain continuous improvement of the quality system to provide efficient services utilizing its resources, infrastructures, and competent, qualified, and experienced personnel to achieve the customer expectation and satisfaction.S</p>
             </details>
         </div>
         <div class="col-md-6 wow bounce" style="text-align: center;" data-wow-delay="0.5s">
@@ -64,7 +64,7 @@
             <h4>Pursue, acquire, introduce and drive innovative, advanced solutions into the energy, power and petrochemical industries</h4>
             <details style="padding-top: 20px;">
                 <summary>Read More</summary>
-                <p>Vision One Sdn. Bhd. aspiration to be the national and international leading provider of technical solution, inspection, nondestructive testing, maintenance and repair to the respected customers in energy, power, and petrochemical industries.</p>
+                <p style="text-align: center; font-size: 20px">Vision One Sdn. Bhd. aspiration to be the national and international leading provider of technical solution, inspection, nondestructive testing, maintenance and repair to the respected customers in energy, power, and petrochemical industries.</p>
             </details>
         </div>
     </div>
@@ -106,13 +106,13 @@
         </div>
         <div class="row g-4" style="padding-top: 2.1rem;">
             <div class="col-md-6 wow fadeInLeft" style="text-align: center;" data-wow-delay="0.5s">
-                <p>Vision One Sdn. Bhd. head office is located on the first floor of a two-storey office block in a well developed commercial area in Mutiara Damansara,
+                <p style="text-align: center; font-size: 20px">Vision One Sdn. Bhd. head office is located on the first floor of a two-storey office block in a well developed commercial area in Mutiara Damansara,
                     a well established residential commercial township. Surrounding the office are banks, stationary shops, convenience shops, etc. which is conducive for
                     commercial offices. Hotels, shopping malls and supermarkets are short distance away. Mutiara Damansara is also a hub of trunk highways. The Kuala Lumpur
                     International Airport and Malaysia’s seaport are about 40 and 25 kilometers away, respectively.</p>
             </div>
             <div class="col-md-6 wow fadeInRight" style="text-align: center;" data-wow-delay="0.5s">
-                <p>Vision One Sdn. Bhd. Kuantan branch office situated within the 2 acre yard located in the industrial area of Gebeng, Kuantan.</p>
+                <p style="text-align: center; font-size: 20px">Vision One Sdn. Bhd. Kuantan branch office situated within the 2 acre yard located in the industrial area of Gebeng, Kuantan.</p>
             </div>
         </div>
     </div>
