@@ -52,8 +52,8 @@
 </div>
 <!-- Carousel End -->
 
-<div class="container-fluid py-5">
-    <div class="row">
+<div class="container-fluid">
+    <div class="row m-0 justify-content-center">
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
                 <div class="thumb">
