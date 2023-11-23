@@ -2,6 +2,7 @@
     "/js/main.js": "/js/main.js?id=fd83f8bcd848e9204ca292b52b03c6ae",
     "/css/main.css": "/css/main.css?id=53bc95e8a5e4d6cb8a4842218d487fc5",
     "/img/About1.jpeg": "/img/About1.jpeg?id=dd3de6a73e9a8958b1db3a652817c4a7",
+    "/img/AboutUsIndex.jpg": "/img/AboutUsIndex.jpg?id=7c358b58ba8f12d373c6a982905330f3",
     "/img/Accreditation.jpg": "/img/Accreditation.jpg?id=19a5bedd9e798f12998ece170e362238",
     "/img/ANAMO-.4.jpg": "/img/ANAMO-.4.jpg?id=2289ec4a75561d14ca9eced7b87839a3",
     "/img/anamo.jpg": "/img/anamo.jpg?id=2289ec4a75561d14ca9eced7b87839a3",
@@ -19,6 +20,7 @@
     "/img/Collaborators/TNB.png": "/img/Collaborators/TNB.png?id=867a6ff3c498794c8ba84d500bbdeb08",
     "/img/Collaborators/TOYO ENGINEERING.jpeg": "/img/Collaborators/TOYO ENGINEERING.jpeg?id=a5742536e30ac4e09d64cc2dc32b9283",
     "/img/Collaborators/TOYO ENGINEERING.png": "/img/Collaborators/TOYO ENGINEERING.png?id=921fa330a3cf30bc57f632a81c990a83",
+    "/img/FirstIndex.jpg": "/img/FirstIndex.jpg?id=91ed2e822791fe2da526f5a304db292f",
     "/img/img3.jpg": "/img/img3.jpg?id=259926cd64e6dbe07c9b9e0752615ad2",
     "/img/kuantan_branch.jpg": "/img/kuantan_branch.jpg?id=530d1bd5dc3d3f28890b8d7b6d704492",
     "/img/logo-300x67.png": "/img/logo-300x67.png?id=fca00abf02083b84e31ee0c3be4b06ec",
@@ -26,6 +28,7 @@
     "/img/MaintenancePic.jpg": "/img/MaintenancePic.jpg?id=f9f110417d080ae04e31158dd98bf006",
     "/img/Oil-and-Gas.jpg": "/img/Oil-and-Gas.jpg?id=4ebbe3a01234d2be9f9dfb0cc202e692",
     "/img/oil-gas-banner.jpg": "/img/oil-gas-banner.jpg?id=53125cc009e305deee7cf5e6cc2a9b2d",
+    "/img/SecondIndex.jpg": "/img/SecondIndex.jpg?id=8e1d5802c79c365d9a58d75a8fefb76a",
     "/img/serv6.jpg": "/img/serv6.jpg?id=3a0b0030589e92f125d80ab2d94ca161",
     "/img/serv7.jpg": "/img/serv7.jpg?id=a5db401beab30b735619f6340d4b0b2d",
     "/img/Service/pipeline1.jpg": "/img/Service/pipeline1.jpg?id=f461dfee361b7ad813e08f778eb7a575",
@@ -66,8 +69,5 @@
     "/css/dataTables.bootstrap5.min.css": "/css/dataTables.bootstrap5.min.css?id=559bd8b2bf4cea9a6b81f30255fb7b7b",
     "/css/responsive.bootstrap5.min.css": "/css/responsive.bootstrap5.min.css?id=c0dccd0ffa07af44fa864be5575e80af",
     "/js/jquery.dataTables.min.js": "/js/jquery.dataTables.min.js?id=72d0b5e6cecb2e8e556640b5ac0102d7",
-    "/js/popper.min.js": "/js/popper.min.js?id=31032b08bd8e72220462d3f54f8bd69a",
-    "/img/AboutUsIndex.jpg": "/img/AboutUsIndex.jpg?id=9faa3ef8203b0fc501d15c06a4eef743",
-    "/img/FirstIndex.jpg": "/img/FirstIndex.jpg?id=3be15416e2f52f2e04b5edaf0ad0deee",
-    "/img/SecondIndex.jpg": "/img/SecondIndex.jpg?id=8411e7c5a315261d20109697580c8e57"
+    "/js/popper.min.js": "/js/popper.min.js?id=31032b08bd8e72220462d3f54f8bd69a"
 }
