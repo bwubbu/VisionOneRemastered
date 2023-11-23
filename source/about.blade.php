@@ -112,6 +112,7 @@
     <div class="container">
         <div class="text-center mx-auto mb-5 wow bounceIn" data-wow-delay="0.3s" style="max-width: 1000px;">
             <h1 class="text-uppercase">Company Status</h1>
+            <p class="mb-4" style="font-size:20px">Our Company is Registered With</p>
         </div>
     </div>
 </div>
