@@ -1,5 +1,5 @@
     <!-- Footer Start -->
-    <div class="container-fluid bg-secondary text-light footer" >
+    <div class="container-fluid bg-secondary text-light footer">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
@@ -52,12 +52,10 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="copyright">
-                <div class="row">
-                    <div class="col-md-8 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">One Vision Sdn Bhd</a>, All Right Reserved.
-                    </div>
+        <div class="copyright">
+            <div class="row">
+                <div class="col-md-8 text-center text-md-start mb-3 mb-md-0">
+                    &copy; <a class="border-bottom" href="#">One Vision Sdn Bhd</a>, All Right Reserved.
                 </div>
             </div>
         </div>

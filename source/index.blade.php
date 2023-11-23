@@ -53,7 +53,7 @@
 </div>
 <!-- Carousel End -->
 
-<div class="container-xxl py-5">
+<div class="container-fluid py-5">
     <div class="row">
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
@@ -71,7 +71,7 @@
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
-            <div class="thumb">
+                <div class="thumb">
                     <img class="img-fluid py-3" src="assets/build/img/SecondIndex.jpg" alt="">
                 </div>
                 <div class="down-content">
@@ -86,7 +86,7 @@
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
-            <div class="thumb">
+                <div class="thumb">
                     <img class="img-fluid py-3" src="assets/build/img/AboutUsIndex.jpg" alt="">
                 </div>
                 <div class="down-content">
@@ -118,6 +118,4 @@
         </div>
     </div>
 </div>
-
-
 @endsection
