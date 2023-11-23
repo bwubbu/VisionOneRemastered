@@ -18,6 +18,7 @@
                 <div class="collaborators-container px-4 py-2">
                     <div class="collaborators-list">
                         <div class="collaborators-group" id="collaborators-group">
+                            <a href="https://www.fpsoventures.com">
                                 <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
                             </a>
                             <a href="https://online.imeremit.com/my/">
