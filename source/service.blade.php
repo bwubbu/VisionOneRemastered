@@ -96,7 +96,7 @@
                         <div class="h-100">
                             <img class="img-fluid h-100" style="object-fit: cover;" src="assets/build/img/Service/serv4.jpg" alt="">
                         </div>
-                    </div>    
+                    </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                         <div class="bg-secondary h-100 p-5">
                             <h1 class="text-uppercase mb-4">Integrity Inspection and Nondestructive Testing (NDT)</h1>
