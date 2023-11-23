@@ -108,13 +108,13 @@
                 <div class="status-container px-4 py-2">
                     <div class="status-list justify-content-center">
                         <div class="status-group justify-content-center" id="status-group">
-                            <a href="https://www.fpsoventures.com">
+                            <a href="#">
                                 <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/240px-Logo_AELB.png') }}" alt="Image"> </a>
-                            <a href="https://online.imeremit.com/my/">
+                            <a href="#">
                                 <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/5183.KL_BIG.D-a824ccc5.png') }}" alt="Image"> </a>
-                            <a href="https://makhostia.com">
+                            <a href="#">
                                 <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/CIDB-HQ-DarkBackground-Logo.png') }}" alt="Image"> </a>
-                            <a href="http://magna-mitre.weebly.com">
+                            <a href="#">
                                 <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/ministry-of-finance-malaysia-logo-E9D4C94BFD-seeklogo.com.png') }}" alt="Image"> </a>
                         </div>
                     </div>
