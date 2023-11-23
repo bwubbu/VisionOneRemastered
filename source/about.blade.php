@@ -57,48 +57,39 @@
     </div>
 </div>
 
-<div class="container-xxl py-5">
-    <div class="container">
-        <div class="text-center mx-auto mb-5 wow bounceIn" data-wow-delay="0.3s" style="max-width: 1000px;">
-            <h1 class="text-uppercase">Our Offices</h1>
-        </div>
-    </div>
-</div>
-
 <!-- Office Start -->
 <div class="container-xxl">
     <div class="container">
+        <div class="text-center mx-auto mb-3 wow bounceIn" data-wow-delay="0.3s" style="max-width: 1000px;">
+            <h1 class="text-uppercase">Our Offices</h1>
+        </div>
         <div class="row">
             <div class="col-lg-6 py-3">
-                <div class="container">
-                    <div class="row g-0">
-                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="bg-secondary d-flex flex-column justify-content-center p-5">
-                                <h1 class="text-uppercase mb-4">Head Office</h1>
-                                <p style="color: white; text-align: justify;">Mutiara Damansara, Petaling Jaya</p>
-                            </div>
+                <div class="row g-0" style="height: 100%;">
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="bg-secondary d-flex flex-column justify-content-center p-5" style="height: 100%;">
+                            <h1 class="text-uppercase mb-4">Head Office</h1>
+                            <p style="color: white;">Mutiara Damansara, Petaling Jaya</p>
                         </div>
-                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                            <div style="width: 100%; height: 100%;">
-                                <img class="img-fluid" style="object-fit: cover; width: 100%; height: 100%;" src="assets/build/img/About1.jpeg" alt="">
-                            </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                        <div style="width: 100%; height: 100%;">
+                            <img class="img-fluid" style="object-fit: cover; width: 100%; height: 100%;" src="assets/build/img/About1.jpeg" alt="">
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 py-3">
-                <div class="container-fluid">
-                    <div class="row g-0">
-                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="bg-secondary d-flex flex-column justify-content-center p-5">
-                                <h4 class="text-uppercase mb-4">Kuantan Branch Office and Yard Facility</h4>
-                                <p style="color: white; text-align: justify;">Gebeng, Kuantan</p>
-                            </div>
+                <div class="row g-0" style="height: 100%;">
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="bg-secondary d-flex flex-column justify-content-center p-5" style="height: 100%;">
+                            <h4 class="text-uppercase mb-4">Kuantan Branch Office and Yard Facility</h4>
+                            <p style="color: white;">Gebeng, Kuantan</p>
                         </div>
-                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                            <div style="width: 100%; height: 100%;">
-                                <img class="img-fluid" style="object-fit: cover; width: 100%; height: 100%;" src="assets/build/img/kuantan_branch.jpg" alt="">
-                            </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                        <div style="width: 100%; height: 100%;">
+                            <img class="img-fluid" style="object-fit: cover; width: 100%; height: 100%;" src="assets/build/img/kuantan_branch.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -108,12 +99,29 @@
 </div>
 <!-- Office End -->
 
-<div class="container-xxl py-5">
+<div class="container-xxl">
     <div class="container">
-        <div class="text-center mx-auto mb-5 wow bounceIn" data-wow-delay="0.3s" style="max-width: 1000px;">
-            <h1 class="text-uppercase">Company Status</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center">Our Valued Customers</h2>
+                <div class="status-container px-4 py-2">
+                    <div class="status-list justify-content-center">
+                        <div class="status-group justify-content-center" id="status-group">
+                            <a href="https://www.fpsoventures.com">
+                                <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/240px-Logo_AELB.png') }}" alt="Image"> </a>
+                            <a href="https://online.imeremit.com/my/">
+                                <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/5183.KL_BIG.D-a824ccc5.png') }}" alt="Image"> </a>
+                            <a href="https://makhostia.com">
+                                <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/CIDB-HQ-DarkBackground-Logo.png') }}" alt="Image"> </a>
+                            <a href="http://magna-mitre.weebly.com">
+                                <img class="status-image" src="{{ url('assets/build/img/CompanyStatus/ministry-of-finance-malaysia-logo-E9D4C94BFD-seeklogo.com.png') }}" alt="Image"> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
 <!-- Team End -->
 @endsection

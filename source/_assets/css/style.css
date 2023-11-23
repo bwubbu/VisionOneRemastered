@@ -434,7 +434,34 @@
     width: auto;
 }
 
+/* Add a style for the status group */
+.status-container {
+    border-radius: 0.25rem;
+    white-space: normal;
+}
 
+.status-list {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.status-group {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.status-group a {
+    margin-right: 20px;
+}
+
+.status-image {
+    max-height: 100px;
+    width: auto;
+}
+
+/* Add a style for the thumbnail */
 .thumb img {
     max-width: 100%;
     /* Set the maximum width to 100% of its container */
