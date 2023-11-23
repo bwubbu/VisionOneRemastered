@@ -119,6 +119,7 @@
                     </div>
                 </div>
             </div>
+            <p class="mb-4" style="font-size:20px">Our Company is Registered With</p>
         </div>
     </div>
 </div>

@@ -31,11 +31,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-uppercase mb-4">Quick Links</h4>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
+                    <a class="btn btn-link" href="http://localhost:8000/about">About Us</a>
+                    <a class="btn btn-link" href="http://localhost:8000/service">Our Services</a>
+                    <a class="btn btn-link" href="http://localhost:8000/project">Our Projects</a>
+                    <a class="btn btn-link" href="http://localhost:8000/contact">Contact Us</a>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-uppercase mb-4">Newsletter</h4>
