@@ -10,7 +10,6 @@
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
                         <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown" style="text-align: center;">To be the leader, bridge the gap between conventional and innovative solutions</h1>
-                        <p class="text-white mb-4 animated slideInDown" style="text-align: center; font-size: 20px">A dynamic and enthusiastic team with various backgrounds in engineering, finance and management drives Vision One. We aim to progress further in the Global Energy build our hard-earned reputation as a reliable contractor with integrity.</p>
                     </div>
                 </div>
             </div>
@@ -58,7 +57,7 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
                 <div class="thumb">
-                    <img class="img-fluid py-3" src="assets/build/img/FirstIndex.jpg" alt="">
+                    <img class="img-fluid py-3" src="assets/build/img/FirstIndex.jpg" alt="" style="margin: 0 auto; display: block;">
                 </div>
                 <div class="down-content">
                     <h4 class="text-center">Who Are We?</h4>
@@ -72,7 +71,7 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
                 <div class="thumb">
-                    <img class="img-fluid py-3" src="assets/build/img/SecondIndex.jpg" alt="">
+                    <img class="img-fluid py-3" src="assets/build/img/SecondIndex.jpg" alt="" style="margin: 0 auto; display: block;">
                 </div>
                 <div class="down-content">
                     <h4 class="text-center">What does Our Company Offer?</h4>
@@ -87,7 +86,7 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="featured-item">
                 <div class="thumb">
-                    <img class="img-fluid py-3" src="assets/build/img/AboutUsIndex.jpg" alt="">
+                    <img class="img-fluid py-3" src="assets/build/img/AboutUsIndex.jpg" alt="" style="margin: 0 auto; display: block;">
                 </div>
                 <div class="down-content">
                     <h4 class="text-center">Who Have We Worked With?</h4>
