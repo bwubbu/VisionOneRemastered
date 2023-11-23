@@ -60,7 +60,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="featured-item">
                         <div class="thumb">
-                            <img src="assets/build/img/FirstIndex.jpg" alt="">
+                            <img src="{{ url('assets/build/img/FirstIndex.jpg') }}" alt="">
                         </div>
                         <div class="down-content">
                             <h4>Who Are We?</h4>
@@ -74,7 +74,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="featured-item">
                         <div class="thumb">
-                            <img src="assets/build/img/SecondIndex.jpg" alt="">
+                            <img src="{{ url('assets/build/img/SecondIndex.jpg') }}" alt="">
                         </div>
                         <div class="down-content">
                             <h4>What does Our Company Offer?</h4>
@@ -89,7 +89,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="featured-item">
                         <div class="thumb">
-                            <img src="assets/build/img/AboutUsIndex.jpg" alt="">
+                            <img src="{{ url('assets/build/img/AboutUsIndex.jpg') }}" alt="">
                         </div>
                         <div class="down-content">
                             <h4>Who Have We Worked With?</h4>
