@@ -12,26 +12,23 @@
 
 <div class="container-xxl">
     <div class="container">
-        <div class="text-center mx-auto mb-4 wow pulse" data-wow-delay="0.3s">
+        <div class="text-center mx-auto mb-5 wow fadeIn" data-wow-delay="0.5s">
             <h2 class="text-uppercase">While subscribing to the mission statement, Vision One derives a set of business objectives, namely:</h2>
         </div>
-        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
-            <h5 class="text-uppercase">Identify and provide immediate solutions to customer needs.</h5>
+        <div class="text-center mx-auto mb-3 wow fadeInLeft" data-wow-delay="0.9s" style="font-size:2rem">
+            <a>Identify and establish a network of reputable Malaysian entrepreneurs, companies and operators for mutually benefiting business arrangements</a>
         </div>
-        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
-            <h5 class="text-uppercase">Establish a reputation as an excellent local Malaysian solution provider.</h5>
+        <div class="text-center mx-auto mb-3 wow fadeInLeft" data-wow-delay="1.3s" style="font-size:2rem">
+            <a>Provide a conducive working partnership among business stakeholders through continuously improving business ethics and integrity</a>
         </div>
-        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
-            <h5 class="text-uppercase">Gain customer trust and satisfaction in every offered solution.</h5>
+        <div class="text-center mx-auto mb-3 wow fadeInLeft" data-wow-delay="1.7s" style="font-size:2rem">
+            <a>Provide a conducing working environment for all staff to excel in their productivity and be successful in their career and personal life</a>
         </div>
-        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
-            <h5 class="text-uppercase">Identify and establish a network of reputable Malaysian entrepreneurs, companies and operators for mutually benefiting business arrangements.</h5>
+        <div class="text-center mx-auto mb-3 wow fadeInLeft" data-wow-delay="2.1s" style="font-size:2rem">
+            <a>Establish a reputation as an excellent local Malaysian solution provider</a>
         </div>
-        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
-            <h5 class="text-uppercase">Provide a conducive working partnership among business stakeholders through continuously improving business ethics and integrity.</h5>
-        </div>
-        <div class="text-center mx-auto mb-2 wow pulse" data-wow-delay="0.3s">
-            <h5 class="text-uppercase">Provide a conducing working environment for all staff to excel in their productivity and be successful in their career and personal life.</h5>
+        <div class="text-center mx-auto mb-3 wow fadeInLeft" data-wow-delay="2.5s" style="font-size:2rem">
+            <a>Identify and provide immediate solutions to customer needs</a>
         </div>
     </div>
 </div>
