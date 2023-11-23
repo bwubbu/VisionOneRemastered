@@ -13,7 +13,7 @@
 
 <!-- About Start -->
 <div class="container">
-    <div class="col-lg-9" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
+    <div class="col-lg-12" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
         <h1 class="text-uppercase mb-4 text-center wow pulse" data-wow-delay="1.0s">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
         <div class="row g-4">
             <div class="col-md-6 wow bounce" style="text-align: center;" data-wow-delay="0.5s">
