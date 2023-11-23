@@ -56,50 +56,41 @@
         </div>
     </div>
 </div>
-<!-- About End -->
 
-<div class="container-xxl col-lg-6">
+<!-- Office Start -->
+<div class="container-xxl">
     <div class="container">
-        <!-- Manpower Resources – Inspection and Testing -->
-        <div class="col g-0">
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="bg-secondary h-100 d-flex flex-column justify-content-center p-5">
-                    <h1 class="text-uppercase mb-4">Head Office</h1>
-                    <div>
-                        <div class="d-flex justify-content-between border-bottom py-2">
-                            <h6 class="mb-0">Mutiara Damansara, Petaling Jaya</h6>
+        <div class="row">
+            <div class="col-lg-6 py-3">
+                <div class="container">
+                    <div class="row g-0">
+                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="bg-secondary d-flex flex-column justify-content-center p-5">
+                                <h1 class="text-uppercase mb-4">Head Office</h1>
+                                <p style="color: white; text-align: justify;">Mutiara Damansara, Petaling Jaya</p>
+                            </div>
                         </div>
-                        <div class="d-flex justify-content-between border-bottom py-2">
-                            <h6 class="mb-0">Authorized Inspector API 510 Pressure Vessel Inspection</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom py-2">
-                            <h6 class="mb-0">Authorized Inspector API 570 Piping Inspection</h6>
+                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                            <div>
+                                <img class="img-fluid" style="object-fit: cover;" src="assets/build/img/About1.jpeg" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="h-100">
-                    <img class="img-fluid h-100" style="object-fit: cover;" src="assets/build/img/About1.jpeg" alt="">
-                </div>
-            </div>
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="h-100">
-                    <img class="img-fluid h-100" style="object-fit: cover;" src="assets/build/img/kuantan_branch.jpg" alt="">
-                </div>
-            </div>
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="bg-secondary h-100 p-5">
-                    <h1 class="text-uppercase mb-4">Kuantan Branch Office and Yard Facility</h1>
-                    <div>
-                        <div class="d-flex justify-content-between border-bottom py-2">
-                            <h6 class="mb-0">Mutiara Damansara, Petaling Jaya</h6>
+            <div class="col-lg-6 py-3">
+                <div class="container-fluid">
+                    <div class="row g-0">
+                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="bg-secondary d-flex flex-column justify-content-center p-5">
+                                <h3 class="text-uppercase mb-4">Kuantan Branch Office and Yard Facility</h3>
+                                <p style="color: white; text-align: justify;">Mutiara Damansara, Petaling Jaya</p>
+                            </div>
                         </div>
-                        <div class="d-flex justify-content-between border-bottom py-2">
-                            <h6 class="mb-0">Authorized Inspector API 510 Pressure Vessel Inspection</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom py-2">
-                            <h6 class="mb-0">Authorized Inspector API 570 Piping Inspection</h6>
+                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                            <div>
+                                <img class="img-fluid" style="object-fit: cover;" src="assets/build/img/kuantan_branch.jpg" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -107,57 +98,8 @@
         </div>
     </div>
 </div>
+<!-- Office End -->
 
-
-<!-- Office -->
-<div class="container-xxl py-5">
-    <div class="container">
-        <div class="text-center mx-auto mb-5 wow fadeInTop" data-wow-delay="0.1s" style="max-width: 1000px;">
-            <h1 class="text-uppercase">Our Offices</h1>
-        </div>
-        <div class="row g-4">
-            <div class="d-flex justify-content-center align-items-stretch" style="gap: px;">
-                <div class="col-lg-3 col-md-6 wow fadeInLeft" data-wow-delay="0.5s" style="margin-right: auto; margin-left: auto;">
-                    <div class="team-item">
-                        <div>
-                            <img class="img-fluid" src="assets/build/img/About1.jpeg" alt="">
-                        </div>
-                        <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">Head Office</h5>
-                            <br>
-                            <span class="text-primary">Mutiara Damansara, Petaling Jaya</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay="0.8s" style="margin-right: auto; margin-left: auto;">
-                    <div class="team-item">
-                        <div>
-                            <img class="img-fluid" src="assets/build/img/kuantan_branch.jpg" alt="">
-                        </div>
-                        <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">Kuantan Branch Office and Yard Facility</h5>
-                            <span class="text-primary">Gebeng, Kuantan</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row g-4" style="padding-top: 2.1rem;">
-            <div class="col-md-6 wow fadeInLeft" style="text-align: center;" data-wow-delay="0.5s">
-                <p style="text-align: center; font-size: 20px">Vision One Sdn. Bhd. head office is located on the first floor of a two-storey office block in a well developed commercial area in Mutiara Damansara,
-                    a well established residential commercial township. Surrounding the office are banks, stationary shops, convenience shops, etc. which is conducive for
-                    commercial offices. Hotels, shopping malls and supermarkets are short distance away. Mutiara Damansara is also a hub of trunk highways. The Kuala Lumpur
-                    International Airport and Malaysia’s seaport are about 40 and 25 kilometers away, respectively.</p>
-            </div>
-            <div class="col-md-6 wow fadeInRight" style="text-align: center;" data-wow-delay="0.5s">
-                <p style="text-align: center; font-size: 20px">Vision One Sdn. Bhd. Kuantan branch office situated within the 2 acre yard located in the industrial area of Gebeng, Kuantan.</p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Team End -->
-
-<!-- Office -->
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow bounceIn" data-wow-delay="0.3s" style="max-width: 1000px;">

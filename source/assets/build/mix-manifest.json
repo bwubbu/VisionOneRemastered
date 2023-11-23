@@ -20,6 +20,10 @@
     "/img/Collaborators/TNB.png": "/img/Collaborators/TNB.png?id=867a6ff3c498794c8ba84d500bbdeb08",
     "/img/Collaborators/TOYO ENGINEERING.jpeg": "/img/Collaborators/TOYO ENGINEERING.jpeg?id=a5742536e30ac4e09d64cc2dc32b9283",
     "/img/Collaborators/TOYO ENGINEERING.png": "/img/Collaborators/TOYO ENGINEERING.png?id=921fa330a3cf30bc57f632a81c990a83",
+    "/img/CompanyStatus/240px-Logo_AELB.png": "/img/CompanyStatus/240px-Logo_AELB.png?id=fdfb4b47701f2fc0ceea815c1dc4d3c0",
+    "/img/CompanyStatus/5183.KL_BIG.D-a824ccc5.png": "/img/CompanyStatus/5183.KL_BIG.D-a824ccc5.png?id=52060699e2be7f709e704de546f74e5a",
+    "/img/CompanyStatus/CIDB-HQ-DarkBackground-Logo.png": "/img/CompanyStatus/CIDB-HQ-DarkBackground-Logo.png?id=bec52a0c983091a76248e2fe6d2d1284",
+    "/img/CompanyStatus/ministry-of-finance-malaysia-logo-E9D4C94BFD-seeklogo.com.png": "/img/CompanyStatus/ministry-of-finance-malaysia-logo-E9D4C94BFD-seeklogo.com.png?id=9ea2ef40d77e541437ea325f0390e450",
     "/img/Contact.jpg": "/img/Contact.jpg?id=ecfa54418546626204cd573fd4d2f008",
     "/img/FirstIndex.jpg": "/img/FirstIndex.jpg?id=91ed2e822791fe2da526f5a304db292f",
     "/img/img3.jpg": "/img/img3.jpg?id=259926cd64e6dbe07c9b9e0752615ad2",
@@ -62,7 +66,7 @@
     "/lib/wow/wow.js": "/lib/wow/wow.js?id=a42b4ffa587794f087d064affc5b577d",
     "/lib/wow/wow.min.js": "/lib/wow/wow.min.js?id=5ccc5286f6d87963ed8474ff9ed6f146",
     "/css/style.css": "/css/style.css?id=17fbde1724842e467983ce1644a93ac9",
-    "/css/bootstrap.css": "/css/bootstrap.css?id=30f45a1c1b4fcbaf9edd763c09b5e6ac",
+    "/css/bootstrap.css": "/css/bootstrap.css?id=1fefd28f6a487c7b989820e60017d92e",
     "/js/bootstrap.bundle.min.js": "/js/bootstrap.bundle.min.js?id=6baf57f25796c332144ed58a2a0cd9ee",
     "/js/jquery.min.js": "/js/jquery.min.js?id=2c872dbe60f4ba70fb85356113d8b35e",
     "/js/dataTables.bootstrap5.min.js": "/js/dataTables.bootstrap5.min.js?id=b7ad479859d53884e9e3f06c7474bd79",
@@ -70,9 +74,5 @@
     "/css/dataTables.bootstrap5.min.css": "/css/dataTables.bootstrap5.min.css?id=559bd8b2bf4cea9a6b81f30255fb7b7b",
     "/css/responsive.bootstrap5.min.css": "/css/responsive.bootstrap5.min.css?id=c0dccd0ffa07af44fa864be5575e80af",
     "/js/jquery.dataTables.min.js": "/js/jquery.dataTables.min.js?id=72d0b5e6cecb2e8e556640b5ac0102d7",
-    "/js/popper.min.js": "/js/popper.min.js?id=31032b08bd8e72220462d3f54f8bd69a",
-    "/img/CompanyStatus/240px-Logo_AELB.png": "/img/CompanyStatus/240px-Logo_AELB.png?id=fdfb4b47701f2fc0ceea815c1dc4d3c0",
-    "/img/CompanyStatus/5183.KL_BIG.D-a824ccc5.png": "/img/CompanyStatus/5183.KL_BIG.D-a824ccc5.png?id=52060699e2be7f709e704de546f74e5a",
-    "/img/CompanyStatus/CIDB-HQ-DarkBackground-Logo.png": "/img/CompanyStatus/CIDB-HQ-DarkBackground-Logo.png?id=bec52a0c983091a76248e2fe6d2d1284",
-    "/img/CompanyStatus/ministry-of-finance-malaysia-logo-E9D4C94BFD-seeklogo.com.png": "/img/CompanyStatus/ministry-of-finance-malaysia-logo-E9D4C94BFD-seeklogo.com.png?id=9ea2ef40d77e541437ea325f0390e450"
+    "/js/popper.min.js": "/js/popper.min.js?id=31032b08bd8e72220462d3f54f8bd69a"
 }
