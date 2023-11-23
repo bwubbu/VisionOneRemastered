@@ -58,6 +58,57 @@
 </div>
 <!-- About End -->
 
+<div class="container-xxl col-lg-6">
+    <div class="container">
+        <!-- Manpower Resources – Inspection and Testing -->
+        <div class="col g-0">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="bg-secondary h-100 d-flex flex-column justify-content-center p-5">
+                    <h1 class="text-uppercase mb-4">Head Office</h1>
+                    <div>
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <h6 class="mb-0">Mutiara Damansara, Petaling Jaya</h6>
+                        </div>
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <h6 class="mb-0">Authorized Inspector API 510 Pressure Vessel Inspection</h6>
+                        </div>
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <h6 class="mb-0">Authorized Inspector API 570 Piping Inspection</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <div class="h-100">
+                    <img class="img-fluid h-100" style="object-fit: cover;" src="assets/build/img/About1.jpeg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <div class="h-100">
+                    <img class="img-fluid h-100" style="object-fit: cover;" src="assets/build/img/kuantan_branch.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="bg-secondary h-100 p-5">
+                    <h1 class="text-uppercase mb-4">Kuantan Branch Office and Yard Facility</h1>
+                    <div>
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <h6 class="mb-0">Mutiara Damansara, Petaling Jaya</h6>
+                        </div>
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <h6 class="mb-0">Authorized Inspector API 510 Pressure Vessel Inspection</h6>
+                        </div>
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <h6 class="mb-0">Authorized Inspector API 570 Piping Inspection</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 <!-- Office -->
 <div class="container-xxl py-5">
     <div class="container">
