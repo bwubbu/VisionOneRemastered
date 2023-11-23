@@ -14,8 +14,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Our Valued Customers</h1>
-                <div class="collaborators-container p-3">
+                <h2>Our Valued Customers</h2>
+                <div class="collaborators-container px-4 py-2">
                     <div class="collaborators-list">
                         <div class="collaborators-group" id="collaborators-group">
                             <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
@@ -49,7 +49,7 @@
 <div class="container my-5">
     <div class="card card-primary">
         <div class="card-header" style="border-radius: 0.25rem 0.25rem 0 0 !important;">
-            <div class="card-tools" style="float: right; margin-right: -0.625rem;">
+            <div class="card-tools mt-1" style="float: right; margin-right: -0.625rem;">
                 <button type="button" class="btn btn-tool" data-card-widget="collapse">
                     <i class="fas fa-minus"></i>
                 </button>
@@ -676,7 +676,7 @@
     <br>
     <div class="card card-primary">
         <div class="card-header" style="border-radius: 0.25rem 0.25rem 0 0 !important;">
-            <div class="card-tools" style="float: right; margin-right: -0.625rem;">
+            <div class="card-tools mt-1" style="float: right; margin-right: -0.625rem;">
                 <button type="button" class="btn btn-tool" data-card-widget="collapse">
                     <i class="fas fa-minus"></i>
                 </button>
