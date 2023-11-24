@@ -18,53 +18,54 @@
                 <div class="collaborators-container px-4 py-2">
                     <div class="collaborators-list">
                         <div class="collaborators-group" id="collaborators-group">
+                            <a href="https://www.fpsoventures.com">
                                 <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
                             </a>
                             <a href="https://online.imeremit.com/my/">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
                             </a>
                             <a href="https://makhostia.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
                             </a>
                             <a href="http://magna-mitre.weebly.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
                             </a>
                             <a href="https://www.petronas.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
                             </a>
                             <a href="https://www.rosen-group.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.png') }}" alt="Image">
                             </a>
                             <a href="https://www.sgs.com/en-my">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/SGS-NORMAL.jpg') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/SGS-NORMAL.jpg') }}" alt="Image">
                             </a>
                             <a href="https://www.lottechem.my/main/main.asp">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TITAN PETCHEM.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TITAN PETCHEM.png') }}" alt="Image">
                             </a>
                             <a href="https://www.tnb.com.my">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TNB.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TNB.png') }}" alt="Image">
                             </a>
                             <a href="https://www.toyo-eng.com/my/en/">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TOYO ENGINEERING.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/TOYO ENGINEERING.png') }}" alt="Image">
                             </a>
                             <!-- Duplicate images here -->
                             <a href="https://www.fpsoventures.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/FPSO VENTURES.png') }}" alt="Image">
                             </a>
                             <a href="https://online.imeremit.com/my/">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/IME.png') }}" alt="Image">
                             </a>
                             <a href="https://makhostia.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/logomakhostiapng.png') }}" alt="Image">
                             </a>
                             <a href="http://magna-mitre.weebly.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/MAGNA-MITRE.png') }}" alt="Image">
                             </a>
                             <a href="https://www.petronas.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/PETRONAS Logo.jpg') }}" alt="Image">
                             </a>
                             <a href="https://www.rosen-group.com">
-                            <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.png') }}" alt="Image">
+                                <img class="collaborator-image" src="{{ url('assets/build/img/Collaborators/rosen group logo_1.png') }}" alt="Image">
                             </a>
                         </div>
                     </div>
