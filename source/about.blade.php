@@ -102,9 +102,9 @@
 <div class="container-xxl">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <h2 class="text-center">Our Valued Customers</h2>
-                <p class="mb-4 text-center" style="font-size:20px">Our Company is Registered With :</p>
+            <div class="col-md-12 py-5">
+                <h2 class="text-center">Company Status</h2>
+                <p class="mb-4 text-center" style="font-size:20px">Our Company is Registered With</p>
                 <div class="status-container px-4 py-2">
                     <div class="status-list justify-content-center">
                         <div class="status-group justify-content-center" id="status-group">
