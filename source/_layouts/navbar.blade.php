@@ -7,7 +7,7 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
-        <div class="navbar-nav ms-auto p-4 p-lg-0">
+        <div class="navbar-nav ms-auto p-4 p-lg-0 text-center">
             <a href="/" class="nav-item nav-link {{ $page->getUrl() == $page->baseUrl.'/' ? 'active' : '' }}">Home</a>
             <a href="/about" class="nav-item nav-link {{ $page->getUrl() == $page->baseUrl.'/about' ? 'active' : '' }}">About</a>
             <a href="/service" class="nav-item nav-link {{ $page->getUrl() == $page->baseUrl.'/service' ? 'active' : '' }}">Service</a>
