@@ -3,7 +3,7 @@
 @section('body')
 
 <!-- Page Header Start -->
-<div class="container-fluid page-header mb-5 wow swingIn" data-wow-delay="0.1s">
+<div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.3s">
     <div class="container text-center py-5">
         <h1 class="display-3 text-white text-uppercase mb-3 animated slideInDown">About Us</h1>
     </div>
@@ -14,13 +14,13 @@
 <!-- About Start -->
 <div class="container">
     <div class="col-lg-12" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
-        <h1 class="text-uppercase mb-4 text-center wow pulse" data-wow-delay="1.0s">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
+        <h1 class="text-uppercase mb-4 text-center wow fadeIn" data-wow-delay="0.6s">To be the leader, bridge the gap between conventional and innovative solutions.</h1>
         <div class="row g-4">
-            <div class="col-md-6 wow bounce pt-5 pb-5" style="text-align: center;" data-wow-delay="0.5s">
+            <div class="col-md-6 wow fadeIn pt-5 pb-5" style="text-align: center;" data-wow-delay="0.9s">
                 <h3 class="text-uppercase mb-3">Vision</h3>
                 <h4>To be the leader, bridge the gap between conventional and innovative solutions.</h4>
             </div>
-            <div class="col-md-6 wow bounce pt-5 pb-5" style="text-align: center;" data-wow-delay="0.5s">
+            <div class="col-md-6 wow fadeIn pt-5 pb-5" style="text-align: center;" data-wow-delay="1.2s">
                 <h3 class="text-uppercase mb-3">Mission</h3>
                 <h4>Pursue, acquire, introduce and drive innovative, advanced solutions into the energy, power and petrochemical industries.</h4>
             </div>

@@ -276,7 +276,7 @@
                             </div>
                         </div>
                         <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">RADIATION SOURCE – BOMB PIT</h5>
+                            <h5 class="text-uppercase">RADIATION SOURCE – BOMB PIT</h5><br>
                         </div>
                     </div>
                 </div>
