@@ -49,8 +49,8 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #FaF9F6;
-    background-color: #000;
+    color: #000;
+    background-color: #FaF9F6;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -84,7 +84,7 @@ h6,
     font-family: "Oswald", sans-serif;
     font-weight: 600;
     line-height: 1.2;
-    color: #fff;
+    color: #000;
 }
 
 h1,
@@ -8349,6 +8349,10 @@ fieldset:disabled .btn {
 }
 
 .bg-secondary {
+    background-color: #fff !important;
+}
+
+.bg-navbar {
     background-color: #191C24 !important;
 }
 

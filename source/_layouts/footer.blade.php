@@ -1,5 +1,5 @@
     <!-- Footer Start -->
-    <div class="container-fluid bg-secondary text-light footer">
+    <div class="container-fluid text-light footer">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">

@@ -14,9 +14,9 @@
     <div class="container">
         <div class="col-lg-9 wow fadeIn" data-wow-delay="0.5s" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
             <h1 class="text-uppercase mb-4">Business & Services</h1>
-            <p class="mb-3" style="color: white; font-size: 20px;">Vision One Sdn Bhd will offer services specialized and integrated technical solutions especially in oil and gas – energy industry, power generation operators, and petrochemical industry.</p>
-            <p class="mb-3" style="color: white; font-size: 20px;">Services include fabrication, maintenance, repair and provisions of competent and experienced inspectors, engineers and technicians to carry out inspection and nondestructive testing utilizing the international standard and code of practices, and advanced technology in terms of equipment and software solutions.</p>
-            <p class="mb-5" style="color: white; font-size: 20px;">The integrated services will be most attractive especially to those lacking the in-house expertise or for one-off jobs. These services will be specifically planned and organized in accordance with the customer requirements and expectations.</p>
+            <p class="mb-3" style="font-size: 20px;">Vision One Sdn Bhd will offer services specialized and integrated technical solutions especially in oil and gas – energy industry, power generation operators, and petrochemical industry.</p>
+            <p class="mb-3" style="font-size: 20px;">Services include fabrication, maintenance, repair and provisions of competent and experienced inspectors, engineers and technicians to carry out inspection and nondestructive testing utilizing the international standard and code of practices, and advanced technology in terms of equipment and software solutions.</p>
+            <p class="mb-5" style="font-size: 20px;">The integrated services will be most attractive especially to those lacking the in-house expertise or for one-off jobs. These services will be specifically planned and organized in accordance with the customer requirements and expectations.</p>
         </div>
     </div>
 </div>
@@ -26,7 +26,7 @@
     <div class="container">
         <div class="col-lg-9 wow fadeIn" data-wow-delay="0.5s" style="position: relative; left: 50%; transform: translateX(-50%); text-align: center;">
             <h1 class="text-uppercase mb-4">OUR AMAZING WORK</h1>
-            <p style="color: white; font-size: 20px;">Our services run deep and are backed by over fifteen years of experience.</p>
+            <p style="font-size: 20px;">Our services run deep and are backed by over fifteen years of experience.</p>
         </div>
 
         <!-- Manpower Resources – Inspection and Testing -->
@@ -103,7 +103,7 @@
                             <p style="color: white; text-align: justify;">Integrity inspection and nondestructive testing has been a worldwide practice for ages in order to determine and analyze potential hazards, potential safety risks of assets and workers, and establish control measures and strategies to maintain the serviceability of assets. Vision Onde Sdn. Bhd. offers the following services of conventional and advanced NDT.</p>
                             <div class="border-bottom py-2">
                                 <h5 class="mb-2">Conventional NDT Services</h5>
-                                <ul class="list-unstyled" style="columns: 2; column-gap: 20px; color: white; list-style: disc">
+                                <ul class="list-unstyled" style="columns: 2; column-gap: 20px; list-style: disc">
                                     <li>Radiography Testing</li>
                                     <li>Ultrasonic Testing</li>
                                     <li>Magnetic Particle Testing</li>
@@ -114,7 +114,7 @@
                             </div>
                             <div class="py-2">
                                 <h5 class="mb-2">Advanced NDT Services</h5>
-                                <ul class="list-unstyled" style="columns: 2; column-gap: 20px; color: white; list-style: disc">
+                                <ul class="list-unstyled" style="columns: 2; column-gap: 20px; list-style: disc">
                                     <li>Coating Inspection</li>
                                     <li>Computerized Radiography Testing</li>
                                     <li>Corrosion Monitoring – C-Scan and B-Scan UT</li>
@@ -142,7 +142,7 @@
                             <h1 class="text-uppercase mb-4">FABRICATION, MANUFACTURING, MAINTENANCE AND REPAIR</h1>
                             <p style="color: white; text-align: justify;">Integrity inspection and nondestructive testing has been a worldwide practice for ages in order to determine and analyze potential hazard, potential safety risk of the asset and worker and establish control measures and strategy to maintain serviceability of asset. Vision Onde Sdn. Bhd. offers the following services of conventional and advanced NDT.</p>
                             <div>
-                                <ol style="columns: 2; list-style: none; color: white; list-style: disc">
+                                <ol style="columns: 2; list-style: none; list-style: disc">
                                     <li>Process Pressure Vessels
                                         <ol style="list-style: circle">
                                             <li >Columns and Towers</li>
